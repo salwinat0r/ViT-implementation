@@ -60,5 +60,8 @@ This means that ViTs can attend to pixels that are far away in the lower layers 
 ### Conclusion
 The papers revolves around using images as sequence based inputs(patches) and doesn't rely on image-specific inductive biases. This Transformer when pre-trained on large datasets, performs exceedingly well
 
+### References
+- [How the vision transformers works in 10 min](https://theaisummer.com/vision-transformer/)
+- [ViT implementations by labml.ai](https://nn.labml.ai/transformers/vit/index.html)
+
 ---
-tags: #🌲 #papers 

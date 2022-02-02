@@ -63,5 +63,6 @@ The papers revolves around using images as sequence based inputs(patches) and do
 ### References
 - [How the vision transformers works in 10 min](https://theaisummer.com/vision-transformer/)
 - [ViT implementations by labml.ai](https://nn.labml.ai/transformers/vit/index.html)
-
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
+- [Vision Transformer in PyTorch](https://www.youtube.com/watch?v=ovB0ddFtzzA)
 ---
